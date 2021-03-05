@@ -60,7 +60,7 @@ tion for each node in the tree.
 
 <center>  
 
-![image1](C:\Users\dell\OneDrive\Desktop\Fake\CONNECT-4-AI-master\graph2.png)   
+![graph2](https://user-images.githubusercontent.com/78253925/110143468-4c958f80-7dfd-11eb-9a44-5b63cfc39496.png) 
 
 </center>
 
