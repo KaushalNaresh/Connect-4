@@ -88,7 +88,7 @@ Here’s an example, taken directly from wikipedia:
 
 <center>  
 
-<img src="https://drive.google.com/file/d/1V8HA9E5fGD2dQdQmoTCFuK0rAgE49QDa/view?usp=sharing">   
+![graph3](https://user-images.githubusercontent.com/78253925/110143602-6636d700-7dfd-11eb-99a7-0118ec4a22ca.png) 
 
 </center>
 
