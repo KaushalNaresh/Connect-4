@@ -247,7 +247,7 @@ many purely random simulations, UCT works by doing many multi-phase playouts.
 
 ><center>  
 >
->![image1](C:\Users\dell\OneDrive\Desktop\Fake\CONNECT-4-AI-master\graph6.png)   
+>![graph6](https://user-images.githubusercontent.com/78253925/110143815-a9914580-7dfd-11eb-9413-3848902695cb.png)  
 >
 ></center>  
 >
