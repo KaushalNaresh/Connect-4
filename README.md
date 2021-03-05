@@ -116,7 +116,7 @@ the entire subtree (since we are sure that the optimal path will not go through 
 
 <center>  
 
-![image1](C:\Users\dell\OneDrive\Desktop\Fake\CONNECT-4-AI-master\graph4.png)   
+![graph4](https://user-images.githubusercontent.com/78253925/110143676-7cdd2e00-7dfd-11eb-8ea3-7e614c47aa67.png)
 
 </center>
 
