@@ -19,7 +19,7 @@
 
 <center>  
 
-![image1](![eq1](https://user-images.githubusercontent.com/78253925/110142859-9cc02200-7dfc-11eb-883a-45f7aca456f5.png))   
+![eq1](https://user-images.githubusercontent.com/78253925/110142859-9cc02200-7dfc-11eb-883a-45f7aca456f5.png)  
 
 </center>
 
