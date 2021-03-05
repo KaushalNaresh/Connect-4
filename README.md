@@ -18,8 +18,8 @@
 ### **Theory Of Alpha-Beta Pruning**
 
 <center>  
-
-![eq1](https://user-images.githubusercontent.com/78253925/110142859-9cc02200-7dfc-11eb-883a-45f7aca456f5.png)  
+    
+![graph1](https://user-images.githubusercontent.com/78253925/110143236-07715d80-7dfd-11eb-9a0b-aa8607e39d15.png)
 
 </center>
 
