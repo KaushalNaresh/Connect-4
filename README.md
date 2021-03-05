@@ -204,7 +204,7 @@ confidence intervals for each machine
 
 <center> 
 
-![image](C:\Users\dell\OneDrive\Desktop\Fake\CONNECT-4-AI-master\eq1.png)
+![eq1](https://user-images.githubusercontent.com/78253925/110144161-0987ec00-7dfe-11eb-92ea-779dcc785de0.png)
 
 </center>
 
@@ -256,22 +256,6 @@ many purely random simulations, UCT works by doing many multi-phase playouts.
 >to obtain the next position to be considered. Selection would then proceed until you
 >reach a position where not all of the child positions have statistics recorded.
 >
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ><center>  
 >
