@@ -88,7 +88,7 @@ Here’s an example, taken directly from wikipedia:
 
 <center>  
 
-![image1](C:\Users\dell\OneDrive\Desktop\Fake\CONNECT-4-AI-master\graph3.png)   
+<img src="https://drive.google.com/file/d/1V8HA9E5fGD2dQdQmoTCFuK0rAgE49QDa/view?usp=sharing">   
 
 </center>
 
